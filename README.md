@@ -24,5 +24,5 @@
 
 
 
-4.該如何執行我完成的專案: 已用github.io 將Vue專案架起來，以供您使用。
+4.該如何執行我完成的專案: 已用github.io 將Vue專案架起來，以供測試評估。
   網址如下: https://zeng-gl.github.io/Vue-booklist-publish/?fbclid=IwAR0dut8SGPBI5dnrjThGWl5Gy_MbauhuyoaBP8-xltXULjuys7Iy6tHKzGc#/
