@@ -1,4 +1,4 @@
-# Frontend-Engineer-
+# Frontend-Engineer-booklist
 1.專案流程與邏輯: 
 由 BookList 和 BookDetail組成的Vue 單頁式網頁，進入首頁BookList，點擊任一書目，會呼叫該書目的API，進入該數目的路由，由 BookDetail 呈現其資料在下方。如欲修改價格和數量，可以在下方選取後，按下修改送出patch API修改數字，成功的話，會顯示Alert；失敗的話，則會在console顯示錯誤訊息。最後，再按下關閉按鈕，回到首頁。
 
